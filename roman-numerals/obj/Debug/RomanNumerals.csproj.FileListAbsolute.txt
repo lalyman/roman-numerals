@@ -1,0 +1,6 @@
+C:\Users\laura.lyman\Documents\Visual Studio 2013\Projects\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.dll
+C:\Users\laura.lyman\Documents\Visual Studio 2013\Projects\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.pdb
+C:\Users\laura.lyman\Documents\Visual Studio 2013\Projects\RomanNumerals\RomanNumerals\bin\Debug\nunit.framework.dll
+C:\Users\laura.lyman\Documents\Visual Studio 2013\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csprojResolveAssemblyReference.cache
+C:\Users\laura.lyman\Documents\Visual Studio 2013\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.dll
+C:\Users\laura.lyman\Documents\Visual Studio 2013\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.pdb
